@@ -31,7 +31,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-color: orange;
+    background-color: rgb(233, 15, 142);
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
@@ -55,7 +55,7 @@ section{
 }
 #full-stack{ 
     border-left: 7px solid;
-    border-image:linear-gradient(180deg, lightsalmon, tomato);
+    border-image:linear-gradient(180deg, rgb(252, 230, 221), rgb(211, 60, 33));
     border-image-slice: 1;
 }
 #baby-web{
