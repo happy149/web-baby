@@ -19,6 +19,7 @@ h2{
 }
 .half-width img{
     width: 100%;
+    border-radius: 250px;
 }
 .top-banner{
      background-image: url(top-banner.png);
@@ -60,7 +61,7 @@ section{
 }
 #baby-web{
     border-left: 7px solid;
-    border-image:linear-gradient(180deg, blue, cyan);
+    border-image:linear-gradient(180deg, rgb(0, 238, 255), rgb(246, 250, 18));
     border-image-slice: 1;
 }
 footer p{
